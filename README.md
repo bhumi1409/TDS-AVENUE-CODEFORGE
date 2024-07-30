@@ -8,7 +8,7 @@ This repository contains three machine learning projects:
 2. **Iris Flower Classification**
 3. **Credit Card Fraud Detection**
 
-
+<hr>
 ## Project 1: Titanic Survival Prediction
 
 ### Overview
@@ -32,8 +32,7 @@ This project involves building a model to predict whether a passenger on the Tit
 - Use cross-validation to ensure model robustness.
 - Explore more feature engineering techniques for better accuracy.
 
-- 
-
+  <hr>
 ## Project 2: Iris Flower Classification
 
 ### Overview
@@ -57,7 +56,7 @@ The objective is to classify Iris flowers into three species (setosa, versicolor
 - Implement cross-validation for better generalization.
 - Consider additional feature engineering for improved performance.
 
- 
+<hr> 
  ## Project 3: Credit Card Fraud Detection
 
 ### Overview
