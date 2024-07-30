@@ -56,8 +56,9 @@ The objective is to classify Iris flowers into three species (setosa, versicolor
 - Implement cross-validation for better generalization.
 - Consider additional feature engineering for improved performance.
 
-<hr> 
- ## Project 3: Credit Card Fraud Detection
+<hr>
+
+## Project 3: Credit Card Fraud Detection
 
 ### Overview
 The goal of this project is to build a machine learning model to identify fraudulent credit card transactions.
